@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ccb3614a83a1a8847b7a9bbe4c13921b
+timeCreated: 1496675341
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Microsoft Sans Serif
+  fontNames:
+  - Microsoft Sans Serif
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: 17dbfacbb22d7ed46a0ffaf7d2ec3c41
+timeCreated: 1495717171
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: //RootNode
+    100004: cape
+    100006: FettBody
+    100008: FettCape
+    100010: FettDisplay
+    100012: FettHelmet
+    100014: FettJetpak
+    100016: lFoot_0_
+    100018: lFoot_1_
+    100020: lHand_0_
+    100022: lIndex_0_
+    100024: lIndex_1_
+    100026: lIndex_2_
+    100028: lLowerArm_0_
+    100030: lLowerLeg_0_
+    100032: lMetaThumb_0_
+    100034: lMiddle_0_
+    100036: lMiddle_1_
+    100038: lMiddle_2_
+    100040: lPinky_0_
+    100042: lPinky_1_
+    100044: lPinky_2_
+    100046: lRing_0_
+    100048: lRing_1_
+    100050: lRing_2_
+    100052: lShoulder_0_
+    100054: lThumb_0_
+    100056: lThumb_1_
+    100058: lUpperArm_0_
+    100060: lUpperArmWeight_0_
+    100062: lUpperLeg_0_
+    100064: neck_0_
+    100066: neck_1_
+    100068: neck_2_
+    100070: pelvis
+    100072: rFoot_0_
+    100074: rFoot_1_
+    100076: rHand_0_
+    100078: rIndex_0_
+    100080: rIndex_1_
+    100082: rIndex_2_
+    100084: rLowerArm_0_
+    100086: rLowerArmWeight_1_
+    100088: rLowerLeg_0_
+    100090: rMetaThumb_0_
+    100092: rMiddle_0_
+    100094: rMiddle_1_
+    100096: rMiddle_2_
+    100098: root_ground
+    100100: root_hips
+    100102: rPinky_0_
+    100104: rPinky_1_
+    100106: rPinky_2_
+    100108: rRing_0_
+    100110: rRing_1_
+    100112: rRing_2_
+    100114: rShoulder_0_
+    100116: rThumb_0_
+    100118: rThumb_1_
+    100120: rUpperArm_0_
+    100122: rUpperArmWeight_0_
+    100124: rUpperLeg_0_
+    100126: spine_0_
+    100128: spine_1_
+    100130: spine_2_
+    100132: spine_3_
+    400000: Armature
+    400002: //RootNode
+    400004: cape
+    400006: FettBody
+    400008: FettCape
+    400010: FettDisplay
+    400012: FettHelmet
+    400014: FettJetpak
+    400016: lFoot_0_
+    400018: lFoot_1_
+    400020: lHand_0_
+    400022: lIndex_0_
+    400024: lIndex_1_
+    400026: lIndex_2_
+    400028: lLowerArm_0_
+    400030: lLowerLeg_0_
+    400032: lMetaThumb_0_
+    400034: lMiddle_0_
+    400036: lMiddle_1_
+    400038: lMiddle_2_
+    400040: lPinky_0_
+    400042: lPinky_1_
+    400044: lPinky_2_
+    400046: lRing_0_
+    400048: lRing_1_
+    400050: lRing_2_
+    400052: lShoulder_0_
+    400054: lThumb_0_
+    400056: lThumb_1_
+    400058: lUpperArm_0_
+    400060: lUpperArmWeight_0_
+    400062: lUpperLeg_0_
+    400064: neck_0_
+    400066: neck_1_
+    400068: neck_2_
+    400070: pelvis
+    400072: rFoot_0_
+    400074: rFoot_1_
+    400076: rHand_0_
+    400078: rIndex_0_
+    400080: rIndex_1_
+    400082: rIndex_2_
+    400084: rLowerArm_0_
+    400086: rLowerArmWeight_1_
+    400088: rLowerLeg_0_
+    400090: rMetaThumb_0_
+    400092: rMiddle_0_
+    400094: rMiddle_1_
+    400096: rMiddle_2_
+    400098: root_ground
+    400100: root_hips
+    400102: rPinky_0_
+    400104: rPinky_1_
+    400106: rPinky_2_
+    400108: rRing_0_
+    400110: rRing_1_
+    400112: rRing_2_
+    400114: rShoulder_0_
+    400116: rThumb_0_
+    400118: rThumb_1_
+    400120: rUpperArm_0_
+    400122: rUpperArmWeight_0_
+    400124: rUpperLeg_0_
+    400126: spine_0_
+    400128: spine_1_
+    400130: spine_2_
+    400132: spine_3_
+    4300000: FettCape
+    4300002: FettDisplay
+    4300004: FettHelmet
+    4300006: FettJetpak
+    4300008: FettBody
+    9500000: //RootNode
+    13700000: FettBody
+    13700002: FettCape
+    13700004: FettDisplay
+    13700006: FettHelmet
+    13700008: FettJetpak
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

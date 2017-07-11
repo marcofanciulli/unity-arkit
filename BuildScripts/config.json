@@ -1,0 +1,25 @@
+{
+  "application_name" : "AR Star Battle",
+  "appstore_project_id" : "233",
+  "unity_project_dir" : ".",
+  "unity_iOS_execute_method" : "UnityBuildingScript.PerformIPhoneBuild",
+  "unity_Android_execute_method" : "UnityBuildingScript.PerformAndroidBuild",
+  "binary_name" : "ARStarBattle",
+
+  "unity_args" :
+  {
+  },
+
+  "unity_path" : "/Applications/Unity/Unity.app/Contents/MacOS/Unity",
+  "unity_log_path" : "~/Library/Logs/Unity/Editor.log",
+  "job_log_path" : "../../job.log",
+  "job_variables_path" : "../../job_variables.josn",
+
+
+ "xcode_project_path" : "../ios_build/UnityBuild/Unity-iPhone.xcodeproj",
+ "xcode_binary_path" : "../binary",
+ "xcode_build_coniguration" : "Release",
+ "xcode_signing_identity": "",
+ "xcode_provision_profile_path": "",
+ "xcode_bundle_id": "com.epam.signus.ARStarBattle"
+}

@@ -1,0 +1,11 @@
+<pre>
+Application Name: T_NAME
+Build Date: T_DATE
+<p>Page: &nbsp;<a href="T_PAGE" target="_blank">link</a> <br>
+</p>
+Git Branch: T_BRANCH
+Git Changes: 
+T_CHANGES 
+
+Raw link: T_PAGE
+</pre>

@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: e21fb2edc334af441a668927ed196aae
+timeCreated: 1495717185
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cockpit
+    100004: Cockpit_Inside
+    100006: Cockpit_Inside 1
+    100008: Cockpit_Rear
+    100010: Cockpit_Side_L
+    100012: Cockpit_Side_R
+    100014: Cockpit_Window
+    100016: Engine_FX
+    100018: Engine_Left
+    100020: Engine_Light_L
+    100022: Engine_Light_R
+    100024: Engine_Port_L
+    100026: Engine_Port_R
+    100028: Engine_Right
+    100030: Engines
+    100032: Hull
+    100034: Hull_Dorsal
+    100036: Hull_Front
+    100038: Hull_Rear_1
+    100040: Hull_Rear_2
+    100042: Hull_Side_1
+    100044: Hull_Side_2
+    100046: Hull_Ventral
+    100048: Jet_Engine_Housing
+    100050: Jet_Engine_Middle
+    100052: Jet_Engine_Rear
+    100054: Laser
+    100056: Laser_Holder_L
+    100058: Laser_Holder_R
+    100060: Laser_L
+    100062: Laser_R
+    100064: Pilot
+    100066: Seat
+    400000: //RootNode
+    400002: Cockpit
+    400004: Cockpit_Inside
+    400006: Cockpit_Inside 1
+    400008: Cockpit_Rear
+    400010: Cockpit_Side_L
+    400012: Cockpit_Side_R
+    400014: Cockpit_Window
+    400016: Engine_FX
+    400018: Engine_Left
+    400020: Engine_Light_L
+    400022: Engine_Light_R
+    400024: Engine_Port_L
+    400026: Engine_Port_R
+    400028: Engine_Right
+    400030: Engines
+    400032: Hull
+    400034: Hull_Dorsal
+    400036: Hull_Front
+    400038: Hull_Rear_1
+    400040: Hull_Rear_2
+    400042: Hull_Side_1
+    400044: Hull_Side_2
+    400046: Hull_Ventral
+    400048: Jet_Engine_Housing
+    400050: Jet_Engine_Middle
+    400052: Jet_Engine_Rear
+    400054: Laser
+    400056: Laser_Holder_L
+    400058: Laser_Holder_R
+    400060: Laser_L
+    400062: Laser_R
+    400064: Pilot
+    400066: Seat
+    2300000: Cockpit_Inside 1
+    2300002: Cockpit_Rear
+    2300004: Cockpit_Side_L
+    2300006: Cockpit_Side_R
+    2300008: Cockpit_Window
+    2300010: Engine_Left
+    2300012: Engine_Port_L
+    2300014: Engine_Port_R
+    2300016: Engine_Right
+    2300018: Hull_Dorsal
+    2300020: Hull_Front
+    2300022: Hull_Rear_1
+    2300024: Hull_Rear_2
+    2300026: Hull_Side_1
+    2300028: Hull_Side_2
+    2300030: Hull_Ventral
+    2300032: Jet_Engine_Housing
+    2300034: Jet_Engine_Middle
+    2300036: Jet_Engine_Rear
+    2300038: Laser_Holder_L
+    2300040: Laser_Holder_R
+    2300042: Laser_L
+    2300044: Laser_R
+    2300046: Pilot
+    2300048: Seat
+    3300000: Cockpit_Inside 1
+    3300002: Cockpit_Rear
+    3300004: Cockpit_Side_L
+    3300006: Cockpit_Side_R
+    3300008: Cockpit_Window
+    3300010: Engine_Left
+    3300012: Engine_Port_L
+    3300014: Engine_Port_R
+    3300016: Engine_Right
+    3300018: Hull_Dorsal
+    3300020: Hull_Front
+    3300022: Hull_Rear_1
+    3300024: Hull_Rear_2
+    3300026: Hull_Side_1
+    3300028: Hull_Side_2
+    3300030: Hull_Ventral
+    3300032: Jet_Engine_Housing
+    3300034: Jet_Engine_Middle
+    3300036: Jet_Engine_Rear
+    3300038: Laser_Holder_L
+    3300040: Laser_Holder_R
+    3300042: Laser_L
+    3300044: Laser_R
+    3300046: Pilot
+    3300048: Seat
+    4300000: Hull_Dorsal
+    4300002: Hull_Ventral
+    4300004: Hull_Side_1
+    4300006: Hull_Side_2
+    4300008: Hull_Front
+    4300010: Hull_Rear_1
+    4300012: Hull_Rear_2
+    4300014: Cockpit_Window
+    4300016: Cockpit_Side_R
+    4300018: Cockpit_Side_L
+    4300020: Cockpit_Rear
+    4300022: Cockpit_Inside
+    4300024: Seat
+    4300026: Pilot
+    4300028: Laser_L
+    4300030: Laser_R
+    4300032: Laser_Holder_R
+    4300034: Laser_Holder_L
+    4300036: Engine_Right
+    4300038: Engine_Left
+    4300040: Jet_Engine_Housing
+    4300042: Jet_Engine_Rear
+    4300044: Jet_Engine_Middle
+    4300046: Engine_Port_L
+    4300048: Engine_Port_R
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

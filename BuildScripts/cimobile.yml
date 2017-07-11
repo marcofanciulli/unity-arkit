@@ -1,0 +1,93 @@
+###########################################
+###  CI Mobile  USER PROPERTIES SAMPLE  ###
+###########################################
+
+### BUILD STEPS on/off ###
+# Clean build environment
+CLEAN_STEP: on
+# Turn on Set version for application in plist file
+SET_VERSION_STEP: off
+# Install Pods
+INSTALL_DEPENDENCY_TOOL_PODS_STEP: off
+# Run unit tests (need set XCODE_UNIT_SCRIPT property)
+XCODE_UNIT_TEST_STEP: off
+# Build project
+XDODE_BUILD_STEP: on
+# Build ipa and dsym (need XDODE_BUILD step)
+XCODE_ARTIFACTS_ARCHIVING_STEP: on
+# Send artifacts to epm-appstore.azurewebsites.net (need XCODE_ARTIFACTS_ARCHIVING step)
+BUILD_DELIVERY_TOOL_EPAM_AZURE_MOBILE_APPSTORE_STEP: on
+# Run static test. code analysis tool
+CHECK_CODE_LINT_TOOL_STEP: off
+# Run static test. duplication code tool
+CHECK_CODE_DUPLICATION_CHECK_TOOL_STEP: off
+# Run static test. Header Cyclomatic Complexity Analyzer
+CHECK_CYCLOMATIC_COMPLEXITY_TOOL_STEP: off
+
+### XCODE PROPERTIES ###
+# Project directory from / of repository with xcodeproj or xcworkspace
+XCODE_PROJECT_DIRECTORY: $WORKSPACE/ios_build/UnityBuild
+# Project name. sample - project_name.xcodeproj
+XCODE_PROJECT: Unity-iPhone.xcodeproj
+# Project workspace. sample - project_name.xcworkspace
+XCODE_WORKSPACE:
+# Project scheme
+XCODE_SCHEME: Unity-iPhone
+# Project config
+XCODE_CONFIGURATION: Release
+# Project target
+XCODE_TARGET:
+# Project SDK
+XCODE_SDK:
+# Project custom arguments
+XCODE_ARGS:
+# Project mobile profile file
+XCODE_MOBILE_PROFILE:
+# "true" if project has multiple targets for schema.
+XCODE_MULTI_TARGET: 
+# Project p12 file with certificate
+XCODE_CERTIFICATE:
+# Password for p12 file with certificate
+XCODE_CERTIFICATE_PASSWD:
+# Project unit script path from / of repository
+XCODE_UNIT_SCRIPT:
+# xcodebuild or xctool
+XCODE_BUILD_TOOL:
+# Version model for appliaction
+APP_VERSION:
+
+### Static tests configuration
+
+CHECK_CODE_LINT_TOOL_INCLUDE:
+CHECK_CODE_LINT_TOOL_EXCLUDE:
+
+CHECK_CODE_DUPLICATION_SOURCES_PATH:
+
+##### Property for publish artifacts #####
+
+### EPAM_AZURE_MOBILE_APPSTORE settings ###
+EPAM_AZURE_MOBILE_API_TOKEN: 4c0cf097-a227-403d-8ccf-1ee5f8077b3d
+EPAM_AZURE_MOBILE_Platform: ios
+EPAM_AZURE_MOBILE_Name: EPM-GAME
+EPAM_AZURE_MOBILE_Tags: IOS-$BUILD_NUMBER
+
+
+
+# PRE / POST / INSTEAD Steps
+PRE_BUILD_SCRIPT: 
+POST_BUILD_SCRIPT:
+
+PRE_CLEAN_STEP:
+POST_CLEAN_STEP:
+
+PRE_XCODE_BUILD_STEP:
+POST_XCODE_BUILD_STEP:
+
+PRE_XCODE_UNIT_TEST_STEP:
+POST_XCODE_UNIT_TEST_STEP:
+
+PRE_XCODE_ARTIFACTS_ARCHIVING_STEP:
+POST_XCODE_ARTIFACTS_ARCHIVING_STEP:
+
+PRE_BUILD_DELIVERY_TOOL_EPAM_MOBILE_APPSTORE_STEP:
+POST_BUILD_DELIVERY_TOOL_EPAM_MOBILE_APPSTORE_STEP:
